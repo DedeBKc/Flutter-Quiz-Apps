@@ -1,16 +1,11 @@
-# latihan_widget
+## Mobile App - Quiz Apps
 
-A new Flutter project.
+Berikut adalah beberpa hasil screenshot dari project ini :
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/31826805/71546364-bb40b700-29c8-11ea-8418-3cb5cc6e22ad.jpg"
+    width="250" />&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/31826805/71546365-bda31100-29c8-11ea-9e29-ffd4e960038f.jpg"
+    width="250" />&nbsp;&nbsp;&nbsp;
+    <img src="https://user-images.githubusercontent.com/31826805/71546367-c1369800-29c8-11ea-829f-b4b051abf813.jpg"
+    width="250" />
